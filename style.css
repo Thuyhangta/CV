@@ -1,0 +1,37 @@
+*{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+#menutrai{
+	background-color: #008080;
+	height: 1130px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+}
+#menuphai{
+	height: 1130px;
+	background-color: #F0FFF0;
+	padding-left:6%;
+	padding-right: 6%;
+	padding-bottom: 6%;
+	border-bottom-right-radius: 15px;
+	border-top-right-radius: 15px;
+}
+img.cangiua {display: block; margin-left: auto; margin-right: auto; margin-top: 10%;border-radius:15px;}
+#table1{
+	margin-left:15px;
+	color: white;
+	font-size: 20px;
+}
+#skill{
+	font-size: 80%;
+}
+#vien{
+	border: 1px solid;
+	padding-left:6%;
+	padding-right: 6%;
+	padding-bottom: 6%;
+	padding-top: 3%;
+	border-width: 80%;
+}
